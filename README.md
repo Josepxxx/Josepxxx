@@ -8,9 +8,9 @@
 - Eu sou um aluno do SENAI de resende-RJ, onde estou cursando o meu 2º ano em Desenvolvimento de Sistemas.
 </h5>
 
-<h3>Ferramenta mais utilizos</h3>
+<h3>Ferramentas mais utilizos:</h3>
 <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg">
-
+wigth: 30px
 <h3>Where to find me: </h3>
 
 <h5>
