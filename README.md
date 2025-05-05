@@ -12,10 +12,12 @@
 </break>
 
 <h3>Where to find me: </h3>
-</break>
+<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg">
+
 <h5>
 - Instagram: @thiago_josephx
-<break></break>
+</h5>
+<h5>
 - Gmail: thiagojsnov2008@gmail.com
 </h5>
 
