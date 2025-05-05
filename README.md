@@ -11,11 +11,11 @@
 <h3>Ferramenta mais utilizos</h3>
 </break>
 
-<h3>Where to find me</h3>
+<h3>Where to find me: </h3>
 </break>
 <h5>
 - Instagram: @thiago_josephx
-</break>
+<break></break>
 - Gmail: thiagojsnov2008@gmail.com
 </h5>
 
