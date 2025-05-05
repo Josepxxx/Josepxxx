@@ -10,7 +10,7 @@
 
 <h3>Ferramentas mais utilizos:</h3>
 <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg">
-wigth: 30px
+
 <h3>Where to find me: </h3>
 
 <h5>
