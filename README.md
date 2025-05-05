@@ -1,8 +1,13 @@
-## Hi there 👋
+<h1>Seja bem vindos ao GitHub do Thiago!</h1>
+</break>
 
-- 🌱 I’m currently learning React, HTML and CSS
-- 📫 How to reach me: Instagram @thiago_josephx
-- 😄 Pronouns: he/him
+<h2>About me:</h2>
+</break>
 
-<h1>Seja bem vindo ao meu GitHub</h1>
+<h3>
+- Eu sou um aluno do SENAI de resende-RJ, onde estou cursando o meu 2º ano em Desenvolvimento de Sistemas.
+</h3>
+
+
+
 
