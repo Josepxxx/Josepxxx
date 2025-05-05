@@ -15,8 +15,7 @@
 
 <h5>
 - Instagram: @thiago_josephx
-</h5>
-<h5>
+<br>
 - Gmail: thiagojsnov2008@gmail.com
 </h5>
 
