@@ -9,10 +9,9 @@
 </h5>
 
 <h3>Ferramenta mais utilizos</h3>
-</break>
+<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg">
 
 <h3>Where to find me: </h3>
-<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg">
 
 <h5>
 - Instagram: @thiago_josephx
